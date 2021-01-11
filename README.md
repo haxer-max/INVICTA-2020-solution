@@ -4,11 +4,14 @@ This is my solution attempt for Invicta 2020 (Image processing/OpenCv Hackathon)
 
 This hackathon had 2 levels/questions whose complete problem statement can be found in `INVICTA2020_ProblemStatement.pdf`.
 
+## Summary of Problem statement and solution
+
 ### Level 1
-<img src= "images/level1.jpg" width=50%/>
-We had to draw a contour around each leaf and calculate whether it is fresh or old based on green percentage >70%.
+<img src= "images/level1.jpg" width=45%/>
+We had to draw a contour around each leaf and calculate whether it is fresh or old based on green (percentage >70%).
+
 #### My solution
-<img src="output/output.jpg.jpg" width=50%/>
+<img src="output/output.jpg.jpg" width=45%/>
 
 ### Level 2
 We were given image of perfect leaf of Maple and of Neem. We were also given image of set of imperfect Maple and Neem leafs, and we had to label how close they are to perfect leaf.
