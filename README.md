@@ -1,6 +1,6 @@
 # Invicta 2020 solution
 This is my solution attempt for Invicta 2020 (Image processing/OpenCv Hackathon) conducted by robotics club IIT Guwahati.
-#### I bagged rang 2 among 479 participants in this competition
+#### I bagged rank 2 among 479 participants in this competition
 
 This hackathon had 2 levels/questions whose complete problem statement can be found in `INVICTA2020_ProblemStatement.pdf`.
 
